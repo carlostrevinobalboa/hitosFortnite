@@ -1,0 +1,70 @@
+{
+    "campos": [
+      {
+        "id": 1,
+        "titulo": "Da las gracias al conductor del autobús",
+        "valor": 0,
+        "max" : 20
+      },               
+      {
+        "id": 2,
+        "titulo": "Completa misiones",
+        "valor": 0,
+        "max" : 20
+      },      
+      {
+        "id": 8,
+        "titulo": "Completa misiones diarias",
+        "valor": 0,
+        "max" : 20
+      },        
+      {
+        "id": 2,
+        "titulo": "Daño a oponentes",
+        "valor": 0,
+        "max" : 20
+      },      
+      {
+        "id": 8,
+        "titulo": "Eliminacion de jugadores",
+        "valor": 0,
+        "max" : 20
+      }, 
+      {
+        "id": 3,
+        "titulo": "Sobrevive a oponentes",
+        "valor": 0,
+        "max" : 20
+      },        
+      {
+        "id": 6,
+        "titulo": "Consigue escudos",
+        "valor": 0,
+        "max" : 20
+      },  
+      {
+        "id": 5,
+        "titulo": "Activar aumentos",
+        "valor": 0,
+        "max" : 20
+      },    
+      {
+        "id": 7,
+        "titulo": "Busca cofres o cajas de munición",
+        "valor": 0,
+        "max" : 20
+      },                   
+      {
+        "id": 2,
+        "titulo": "Obten recompensas",
+        "valor": 0,
+        "max" : 20
+      },       
+      {
+        "id": 8,
+        "titulo": "Distancia recorrida en vehículos",
+        "valor": 0,
+        "max" : 20
+      }
+    ]
+  }
